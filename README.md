@@ -1,7 +1,7 @@
 
 # Mortgage Calculator
 
-This is mortgage Calculator for any one who wants to calculate expense and other related stuff
+This is mortgage Calculator for any one who wants to calculate expense and other related stuff for further details check my profile link
 
 
 ## 🔗 Links
